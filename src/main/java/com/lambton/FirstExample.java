@@ -12,6 +12,7 @@ public class FirstExample {
             System.out.println("Simranjot");
 
             //for loop
+            //loop
         }
     }
 
